@@ -1,0 +1,3 @@
+/home/karani/CLionProjects/sqwight/cmake-build-debug/CMakeFiles/sqwight.dir
+/home/karani/CLionProjects/sqwight/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karani/CLionProjects/sqwight/cmake-build-debug/CMakeFiles/rebuild_cache.dir
